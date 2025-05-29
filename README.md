@@ -1,1 +1,1 @@
-<h2><b>TryHackMe: Free Cybersecurity Path</b></h2>
+<h1><b>TryHackMe: Free Cybersecurity Path</b></h1>
